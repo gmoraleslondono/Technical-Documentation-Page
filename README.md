@@ -42,6 +42,6 @@ Look [here](https://codepen.io/gmoraleslondono/full/aXqboq) my technical documen
 
 ## Credits:
 
-This project was created following [Freecodecamp](https://learn.freecodecamp.org) Tutorial.
+This project was created following [freeCodeCamp](https://learn.freecodecamp.org) Tutorial.
 
 Made with ❤ by Gloria Morales
